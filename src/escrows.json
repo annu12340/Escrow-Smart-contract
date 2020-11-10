@@ -1,0 +1,33 @@
+[
+
+  {
+    "id": 0,
+    "name": "Realme 7 64 GB, 6 GB RAM, Mist White",
+    "picture": "images/realme.jpeg",
+   
+    "type": "Smartphone",
+    "description": "Urgent sell"
+  },
+    {
+    "id": 1,
+    "name": "Carrom board",
+    "picture": "images/carrom.jpeg",
+ 
+    "type": "Carrom board",
+    "description": "Sparingly used"
+  },
+    {
+    "id": 2,
+    "name": "c++ sumita arora class 11",
+    "picture": "images/c++.jpeg",
+
+    "type": "books",
+    "description": "Good condition"
+  }
+
+
+
+
+ 
+
+]
